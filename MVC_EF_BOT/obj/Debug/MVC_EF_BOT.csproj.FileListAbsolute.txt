@@ -1,0 +1,90 @@
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\csc.exe
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\System.Collections.Immutable.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\vbc.exe
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\VBCSCompiler.exe
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\roslyn\VBCSCompiler.exe.config
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\MVC_EF_BOT.dll.config
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\MVC_EF_BOT.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\MVC_EF_BOT.pdb
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Antlr3.Runtime.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\EntityFramework.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\EntityFramework.SqlServer.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Microsoft.Web.Infrastructure.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.Helpers.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.Mvc.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.Optimization.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.Razor.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.WebPages.Deployment.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.WebPages.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.WebPages.Razor.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Telegram.Bot.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\WebGrease.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\EntityFramework.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\EntityFramework.SqlServer.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.Helpers.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.Mvc.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.Optimization.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.Razor.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.WebPages.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.WebPages.Deployment.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\System.Web.WebPages.Razor.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Telegram.Bot.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Antlr3.Runtime.pdb
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\obj\Debug\MVC_EF_BOT.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\obj\Debug\MVC_EF_BOT.pdb
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\csc.exe
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\System.Collections.Immutable.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\vbc.exe
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\VBCSCompiler.exe
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\roslyn\VBCSCompiler.exe.config
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\MVC_EF_BOT.dll.config
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\MVC_EF_BOT.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\MVC_EF_BOT.pdb
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\Antlr3.Runtime.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\EntityFramework.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\EntityFramework.SqlServer.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\Microsoft.Web.Infrastructure.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.Helpers.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.Mvc.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.Optimization.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.Razor.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.WebPages.Deployment.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.WebPages.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.WebPages.Razor.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\Telegram.Bot.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\WebGrease.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\EntityFramework.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\EntityFramework.SqlServer.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.Helpers.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.Mvc.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.Optimization.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.Razor.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.WebPages.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.WebPages.Deployment.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\System.Web.WebPages.Razor.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\Telegram.Bot.xml
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\bin\Antlr3.Runtime.pdb
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\obj\Debug\MVC_EF_BOT.csprojResolveAssemblyReference.cache
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\obj\Debug\MVC_EF_BOT.dll
+D:\Hadi\TeleBot\MVC_EF_BOT - Copy\MVC_EF_BOT\obj\Debug\MVC_EF_BOT.pdb
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Newtonsoft.Json.dll
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\bin\Newtonsoft.Json.xml
+D:\Hadi\TeleBot\MVC_EF_BOT\MVC_EF_BOT\obj\Debug\MVC_EF_BOT.csprojResolveAssemblyReference.cache
